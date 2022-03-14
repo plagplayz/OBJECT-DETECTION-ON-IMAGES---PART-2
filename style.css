@@ -1,0 +1,40 @@
+#button1
+{
+    width: 350px;
+    height: 60px;
+    margin-top: 350px;
+}
+#button2
+{
+    width: 350px;
+    height: 60px;
+    margin-top: 400px;
+}
+#button3
+{
+    width: 350px;
+    height: 60px;
+    margin-top: 450px;
+}
+#button4
+{
+    width: 350px;
+    height: 60px;
+    margin-top: 500px;
+}
+#button5
+{
+    width: 350px;
+    height: 60px;
+    margin-top: 550px;
+}
+#button6
+{
+    width: 350px;
+    height: 60px;
+    margin-top: 600px;
+}
+body
+{
+    background-size: cover;
+}
